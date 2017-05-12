@@ -23,7 +23,7 @@ a{
 
 }
 h1{
-  font-size: 80px;
+  /*font-size: 80px;*/
   display: flex;
   justify-content: center;
   align-items: center;
@@ -40,7 +40,7 @@ h1{
 }
 
 h3{
-  font-size: 40px;
+  /*font-size: 40px;*/
   padding: 2%;
 }
 
@@ -97,7 +97,6 @@ input, textarea {
 
 .btn {
   width: 30%;
-  font-size: 20px;
   margin: 5% 0;
   background-color: #ff4500;
   color: #fff;
@@ -111,5 +110,4 @@ input, textarea {
 
 #footer{
   color: #fff;
-  font-size: 19px;
 }
