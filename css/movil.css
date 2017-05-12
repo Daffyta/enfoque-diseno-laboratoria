@@ -3,6 +3,15 @@
 @media (max-width: 780px){
   #home {
     margin-top: -1%;
+    height: 200px;
+  }
+
+  h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+    color: #ff4500;
   }
 
   #bands {
@@ -36,4 +45,12 @@
 
  a>i {
    float: right;
+  }
+
+  #footer{
+    background-color:  #deefc7;
+    color: #000;
+    padding: 1%;
+  }
+
 }

@@ -16,7 +16,7 @@ a{
 
 #home{
   background-image: url("http://wallpapercave.com/wp/EWHbfcC.jpg");
-  background-attachment: fixed;
+  /*background-attachment: fixed;*/
   background-repeat: no-repeat;
   background-size: cover;
   height: 500px;
@@ -64,7 +64,7 @@ img{
 
 #video,
 #footer{
-  padding: 25px;
+  padding: 1%;
   background-color: #3e7a73;
 }
 
