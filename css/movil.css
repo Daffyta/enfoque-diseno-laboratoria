@@ -1,0 +1,21 @@
+/*version mobile */
+
+@media (max-width: 780px){
+  #home {
+    margin-top: -1%;
+  }
+
+  #bands {
+    display: none;
+  }
+
+  #video {
+    margin-top: -7%;
+    background-color:  #deefc7;
+  }
+
+  #form {
+    background-color: #3e7a73;
+    color: #000;
+  }
+}
